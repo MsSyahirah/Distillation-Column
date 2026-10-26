@@ -1,0 +1,6 @@
+{
+  "name": "Explore the Distillation Tower",
+  "description": "An interactive chemical process simulation for ITE Chemical Process Technology students created by Ms Syahirah to explore distillation column components, counter-current flows, and operational adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
